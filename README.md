@@ -9,9 +9,9 @@ python main.py
 ```
 
 # TO DO:
-- [] Implement pyboot
-- [] Add mydearpygui
-- [] Make theming
+- [ ] Implement pyboot
+- [ ] Add mydearpygui
+- [ ] Make theming
 
 # Compatability
 s5l8947x - Apple TV 3rd Gen
