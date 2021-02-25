@@ -8,6 +8,11 @@ cd Checkra1n.py
 python main.py
 ```
 
+# TO DO:
+- [] Implement pyboot
+- [] Add mydearpygui
+- [] Make theming
+
 # Compatability
 s5l8947x - Apple TV 3rd Gen
 
@@ -32,3 +37,11 @@ Or anything else that supports the checkm8 exploit
 # Troubleshooting:
 1. restart your computer at least 3 times after installing drivers
 2. re-try the jailbreak
+
+# Credits:
+ axi0mX for original exploit
+ geohot for patch of exploit
+ sakurai07 for patching it further with a user friendly ui
+ 
+ # Disclaimer
+ I am not responsible for your device errors
