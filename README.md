@@ -1,6 +1,8 @@
 # Checkra1n.py
  checkra1n for windows, written in python
 
+well it's checkm8 only
+
 # Steps
 go to _guide.md_
 
