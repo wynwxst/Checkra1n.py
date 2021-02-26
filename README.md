@@ -43,6 +43,16 @@ Or anything else that supports the checkm8 exploit
 1. restart your computer at least 3 times after installing drivers
 2. re-try the jailbreak
 
+# Errors:
+ **1.** File "C:\Users\users\Downloads\ipwndfu-master\ipwndfu-master\ipwndfu", line 47, in <module>
+    device = dfu.acquire_device()
+  File "C:\Users\users\Downloads\ipwndfu-master\ipwndfu-master\dfu.py", line 16, in acquire_device
+    for device in usb.core.find(find_all=True, idVendor=0x5AC, idProduct=0x1227, backend=backend):
+  File "C:\Users\users\Downloads\ipwndfu-master\ipwndfu-master\usb\core.py", line 1263, in find
+    raise NoBackendError('No backend available')
+usb.core.NoBackendError: No backend available
+_with this error you must follow the driver installation steps_
+
 # Credits:
  axi0mX for original exploit
  geohot for patch of exploit
