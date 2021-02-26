@@ -1,6 +1,9 @@
 # Checkra1n.py
  checkra1n for windows, written in python
 
+# Steps
+go to _guide.md_
+
 # Installation:
 ```
 git clone https://github.com/Sakurai07/Checkra1n.py/
