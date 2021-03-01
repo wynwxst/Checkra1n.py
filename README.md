@@ -51,11 +51,14 @@ Or anything else that supports the checkm8 exploit
   File "C:\Users\users\Downloads\ipwndfu-master\ipwndfu-master\usb\core.py", line 1263, in find
     raise NoBackendError('No backend available')
 usb.core.NoBackendError: No backend available
+
 _with this error you must follow the driver installation steps_
 
 # Credits:
  axi0mX for original exploit
+ 
  geohot for patch of exploit
+ 
  sakurai07 for patching it further with a user friendly ui
  
  # Disclaimer
