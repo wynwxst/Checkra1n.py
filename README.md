@@ -15,7 +15,7 @@ python main.py
 
 # TO DO:
 - [ ] Implement pyboot
-- [ ] Add mydearpygui
+- [x] Add mydearpygui
 - [ ] Make theming
 
 # Compatability
@@ -52,7 +52,7 @@ Or anything else that supports the checkm8 exploit
     raise NoBackendError('No backend available')
 usb.core.NoBackendError: No backend available
 
-_with this error you must follow the driver installation steps_
+_with this error you must run install dependencies in main.py_
 
 # Credits:
  axi0mX for original exploit
