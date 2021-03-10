@@ -1,0 +1,1 @@
+python instbin.py
