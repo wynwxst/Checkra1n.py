@@ -26,3 +26,5 @@ while True:
 		os.system("install.lnk")
 	elif choice == "2":
 		os.system("python gui.py")
+	elif choice == "help"
+		os.system("type README.md")
