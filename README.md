@@ -8,6 +8,11 @@ well it's checkm8 only
 
 # RUN ALL OF THIS USING ADMIN COMMAND PROMPT
 
+# Preinstall
+git from https://git-scm.com/
+
+python from https://python.org
+
 # Must do
 after cloning cd into the folder and type `python main.py`
 type 0 into `$ ` to install dependencies
