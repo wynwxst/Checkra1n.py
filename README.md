@@ -81,7 +81,7 @@ Or anything else that supports the checkm8 exploit
     raise NoBackendError('No backend available')
 usb.core.NoBackendError: No backend available
 
-_with this error you must run install dependencies in main.py_
+_with this error you must read the #must do section_
 
 # Credits:
  axi0mX for original exploit
