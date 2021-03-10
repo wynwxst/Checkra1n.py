@@ -27,10 +27,8 @@ while True:
 		os.system("install.lnk")
 	elif choice == "2":
 		os.system("python gui.py")
-<<<<<<< Updated upstream
 	elif choice == "help"
 		os.system("type README.md")
-=======
 	elif choice == "5":
 		break
->>>>>>> Stashed changes
+
