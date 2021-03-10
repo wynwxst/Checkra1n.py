@@ -6,6 +6,7 @@ well it's checkm8 only
 # Testers
 <a href= https://github.com/Sakurai07/Checkra1n.py/blob/main/testers.md>Testers</a>
 
+# RUN ALL OF THIS USING ADMIN COMMAND PROMPT
 
 # Must do
 after cloning cd into the folder and type `python main.py`
