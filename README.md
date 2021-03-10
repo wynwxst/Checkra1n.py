@@ -3,6 +3,10 @@
 
 well it's checkm8 only
 
+# Must do
+after cloning cd into the folder and type `python main.py`
+type 0 into `$ ` to install dependencies
+
 # Steps
 For the menu, simply follow installation
 for the instant checkra1n cd to the folder and type `cpbin.lnk` (allows you to just type checkra1n from anywhere, boot flags not supported yet)
