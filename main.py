@@ -10,6 +10,7 @@ while True:
 	print("[2]. GUI Jailbreak")
 	print("[3]. Github")
 	print("[4]. Guide")
+	print("[5]. exit")
 	print("type help for help")
 	choice = input("$ ")
 	print(choice)
@@ -26,5 +27,10 @@ while True:
 		os.system("install.lnk")
 	elif choice == "2":
 		os.system("python gui.py")
+<<<<<<< Updated upstream
 	elif choice == "help"
 		os.system("type README.md")
+=======
+	elif choice == "5":
+		break
+>>>>>>> Stashed changes
