@@ -12,6 +12,9 @@ after cloning cd into the folder and type `python main.py`
 type 0 into `$ ` to install dependencies
 then copy libusb0.dll into c:/windows/system32/
 
+# Optional (recomended)
+Run command prompt as administrator and cd to the folder, type `cpbin.bat` ~ this allows you to run checkra1n from anywhere by typing checkra1n from cmd
+
 # Steps
 For the menu, simply follow installation
 for the instant checkra1n cd to the folder and type `cpbin.lnk` (allows you to just type checkra1n from anywhere, boot flags not supported yet)
@@ -25,8 +28,16 @@ cd Checkra1n.py
 python main.py
 ```
 
+# Features
+- Webra1n
+- Gui
+- Cli
+- DFU tool ~ `python dfu.py`
+- Menu
+- Open source
+
 # TO DO:
-- [ ] Implement pyboot
+- ~~[ ] Implement pyboot~~ Taken out
 - [x] Add mydearpygui
 - [ ] Make theming
 
