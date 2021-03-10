@@ -5,7 +5,7 @@ well it's checkm8 only
 
 # Steps
 For the menu, simply follow installation
-for the instant checkra1n cd to the folder and type `cpbin.lnk`
+for the instant checkra1n cd to the folder and type `cpbin.lnk` (allows you to just type checkra1n from anywhere, boot flags not supported yet)
 For a bad GUI version cd to the folder and type `python gui.py`
 For webra1n (css + html to come soon) cd to the folder and type `python index.py`
 
