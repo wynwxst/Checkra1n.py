@@ -3,6 +3,10 @@
 
 well it's checkm8 only
 
+# Testers
+<a href= https://github.com/Sakurai07/Checkra1n.py/testers.md>Testers</a>
+
+
 # Must do
 after cloning cd into the folder and type `python main.py`
 type 0 into `$ ` to install dependencies
