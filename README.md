@@ -12,6 +12,8 @@ well it's checkm8 only
 git from https://git-scm.com/
 
 python from https://python.org
+### IMPORTANT
+cd to the libusb folder after cloning/downloading and copy **libusb0.dll** to c:/windows/system32 and c:/windows/syswow64 (only if 64bit) then run infinstaller.exe and install the .inf file by right clicking. AFter that copy **Libusb0.sys** to c:/windows/system32/Drivers and c:/windows/syswow64 (only if 64bit)
 
 # Must do
 after cloning cd into the folder and type `python main.py`
@@ -80,6 +82,9 @@ Or anything else that supports the checkm8 exploit
   File "C:\Users\users\Downloads\ipwndfu-master\ipwndfu-master\usb\core.py", line 1263, in find
     raise NoBackendError('No backend available')
 usb.core.NoBackendError: No backend available
+ 
+ 
+(also remember to install python with this error)
 
 _with this error you must read the #must do section_
 
