@@ -21,7 +21,7 @@ type 0 into `$ ` to install dependencies
 then copy libusb0.dll into c:/windows/system32/
 
 # Optional (recomended)
-Run command prompt as administrator and cd to the folder, type `cpbin.bat` ~ this allows you to run checkra1n from anywhere by typing checkra1n from cmd
+Run command prompt as administrator and cd to the folder, type `cpbin` ~ this allows you to run checkra1n from anywhere by typing checkra1n from cmd
 
 # Steps
 For the menu, simply follow installation
