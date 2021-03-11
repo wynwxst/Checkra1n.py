@@ -6,11 +6,20 @@ well it's checkm8 only
 # Testers
 <a href= https://github.com/Sakurai07/Checkra1n.py/blob/main/testers.md>Testers</a>
 
+# RUN ALL OF THIS USING ADMIN COMMAND PROMPT
+
+# Preinstall
+git from https://git-scm.com/
+
+python from https://python.org
 
 # Must do
 after cloning cd into the folder and type `python main.py`
 type 0 into `$ ` to install dependencies
 then copy libusb0.dll into c:/windows/system32/
+
+# Optional (recomended)
+Run command prompt as administrator and cd to the folder, type `cpbin.bat` ~ this allows you to run checkra1n from anywhere by typing checkra1n from cmd
 
 # Steps
 For the menu, simply follow installation
@@ -25,8 +34,16 @@ cd Checkra1n.py
 python main.py
 ```
 
+# Features
+- Webra1n
+- Gui
+- Cli
+- DFU tool ~ `python dfu.py`
+- Menu
+- Open source
+
 # TO DO:
-- [ ] Implement pyboot
+- ~~[ ] Implement pyboot~~ Taken out
 - [x] Add mydearpygui
 - [ ] Make theming
 
@@ -64,7 +81,7 @@ Or anything else that supports the checkm8 exploit
     raise NoBackendError('No backend available')
 usb.core.NoBackendError: No backend available
 
-_with this error you must run install dependencies in main.py_
+_with this error you must read the #must do section_
 
 # Credits:
  axi0mX for original exploit
