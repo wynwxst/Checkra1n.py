@@ -13,7 +13,7 @@ git from https://git-scm.com/
 
 python from https://python.org
 ### IMPORTANT
-cd to the libusb folder after cloning/downloading and copy **libusb0.dll** to c:/windows/system32 and c:/windows/syswow64 (only if 64bit) then run infinstaller.exe and install the .inf file by right clicking. AFter that copy **Libusb0.sys** to c:/windows/system32/Drivers and c:/windows/syswow64 (only if 64bit)
+cd to the libusb folder after cloning/downloading and copy **libusb0.dll** to c:/windows/system32 and c:/windows/syswow64 (only if 64bit) then run **infinstaller.exe** from libusb folder and install the .inf file by right clicking. AFter that copy **Libusb0.sys** to c:/windows/system32/Drivers and c:/windows/syswow64 (only if 64bit)
 
 # Must do
 after cloning cd into the folder and type `python main.py`
