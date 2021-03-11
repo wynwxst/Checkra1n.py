@@ -1,0 +1,490 @@
+[2021-03-11T10:02:07.557138 16184] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.557138 16184] Config: (default) base_dir = 
+[2021-03-11T10:02:07.557138 16184] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.557138 16184] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.557138 16184] Config: (default) compiler = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.557138 16184] Config: (default) compression = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.557138 16184] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) debug = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.557138 16184] Config: (default) disable = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) hard_link = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.557138 16184] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.557138 16184] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.557138 16184] Config: (default) max_files = 0
+[2021-03-11T10:02:07.557138 16184] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.557138 16184] Config: (default) path = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) read_only = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) recache = false
+[2021-03-11T10:02:07.557138 16184] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.557138 16184] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) stats = true
+[2021-03-11T10:02:07.557138 16184] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.557138 16184] Config: (default) umask = 
+[2021-03-11T10:02:07.558236 16184] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2021-03-11T10:02:07.608605 16184] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.608605 16184] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.609617 16184] Source file: __constants.c
+[2021-03-11T10:02:07.609617 16184] Object file: __constants.o
+[2021-03-11T10:02:07.609617 16184] Trying direct lookup
+[2021-03-11T10:02:07.609617 16184] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/8/4d3491490d32d0e995e7b30426d37c-4702.manifest
+[2021-03-11T10:02:07.629619 11364] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.629619 20896] === CCACHE 3.7.12 STARTED =========================================
+fig: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.624620 18204] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.624620 18204] Config: (default) compiler = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.624620 18204] Config: (default) compression = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.624620 18204] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) debug = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.624620 18204] Config: (default) disable = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) hard_link = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.624620 18204] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.624620 18204] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.624620 18204] Config: (default) max_files = 0
+[2021-03-11T10:02:07.624620 18204] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.624620 18204] Config: (default) path = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) read_only = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) recache = false
+[2021-03-11T10:02:07.624620 18204] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.624620 18204] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) stats = true
+[2021-03-11T10:02:07.624620 18204] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.624620 18204] Config: (default) umask = 
+[2021-03-11T10:02:07.630776 18204] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-03-11T10:02:07.629619 11364] Config: (default) base_dir = 
+[2021-03-11T10:02:07.629619 11364] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.629619 11364] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.629619 11364] Config: (default) compiler = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.629619 11364] Config: (default) compression = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.629619 11364] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) debug = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.629619 11364] Config: (default) disable = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) hard_link = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.629619 11364] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.629619 11364] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.629619 11364] Config: (default) max_files = 0
+[2021-03-11T10:02:07.629619 11364] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.629619 11364] Config: (default) path = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) read_only = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) recache = false
+[2021-03-11T10:02:07.629619 11364] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.629619 11364] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) stats = true
+[2021-03-11T10:02:07.629619 11364] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.629619 11364] Config: (default) umask = 
+[2021-03-11T10:02:07.630776 11364] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2021-03-11T10:02:07.630776 11364] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.630776 18204] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.630776 11364] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.631619 18204] Source file: static_src\CompiledFunctionType.c
+[2021-03-11T10:02:07.631619 18204] Object file: static_src\CompiledFunctionType.o
+[2021-03-11T10:02:07.631619 11364] Source file: static_src\MainProgram.c
+[2021-03-11T10:02:07.631619 11364] Object file: static_src\MainProgram.o
+[2021-03-11T10:02:07.631619 18204] Trying direct lookup
+[2021-03-11T10:02:07.631619 11364] Trying direct lookup
+[2021-03-11T10:02:07.638621 18204] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/4/e6713e48c73af95b3e76b726ad6ccb-78951.manifest
+[2021-03-11T10:02:07.641234 11364] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/8359a36f8398a6a0a089569eee7974-24573.manifest
+[2021-03-11T10:02:07.655621 17564] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.655621 17564] Config: (default) base_dir = 
+[2021-03-11T10:02:07.655621 17564] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.655621 17564] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.655621 17564] Config: (default) compiler = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.655621 17564] Config: (default) compression = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.655621 17564] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) debug = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.655621 17564] Config: (default) disable = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) hard_link = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.655621 17564] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.655621 17564] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.655621 17564] Config: (default) max_files = 0
+[2021-03-11T10:02:07.655621 17564] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.655621 17564] Config: (default) path = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) read_only = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) recache = false
+[2021-03-11T10:02:07.655621 17564] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.655621 17564] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) stats = true
+[2021-03-11T10:02:07.655621 17564] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.655621 17564] Config: (default) umask = 
+[2021-03-11T10:02:07.656622 17564] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2021-03-11T10:02:07.656622 17564] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.656622 17564] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.629619 20896] Config: (default) base_dir = 
+[2021-03-11T10:02:07.629619 20896] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.629619 20896] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.629619 20896] Config: (default) compiler = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.629619 20896] Config: (default) compression = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.629619 20896] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) debug = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.629619 20896] Config: (default) disable = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) hard_link = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.629619 20896] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.629619 20896] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.629619 20896] Config: (default) max_files = 0
+[2021-03-11T10:02:07.629619 20896] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.629619 20896] Config: (default) path = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) read_only = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) recache = false
+[2021-03-11T10:02:07.629619 20896] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.629619 20896] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) stats = true
+[2021-03-11T10:02:07.629619 20896] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.629619 20896] Config: (default) umask = 
+[2021-03-11T10:02:07.656622 20896] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-03-11T10:02:07.657647 20896] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.657647 20896] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.657647 17564] Source file: __loader.c
+[2021-03-11T10:02:07.657647 17564] Object file: __loader.o
+[2021-03-11T10:02:07.657647 17564] Trying direct lookup
+[2021-03-11T10:02:07.658649 20896] Source file: static_src\CompiledCellType.c
+[2021-03-11T10:02:07.658649 20896] Object file: static_src\CompiledCellType.o
+[2021-03-11T10:02:07.658649 20896] Trying direct lookup
+[2021-03-11T10:02:07.658649 17564] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/e/7e85742bcb0dab17af31d8dfdc89e3-2965.manifest
+[2021-03-11T10:02:07.669621 20896] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/9/71f4bca7069bee0038d0a3b9ff2695-7970.manifest
+[2021-03-11T10:02:07.680620 16828] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) base_dir = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) compiler = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) compression = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) debug = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) disable = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) hard_link = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.680620 2228 ] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) max_files = 0
+[2021-03-11T10:02:07.680620 2228 ] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) path = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) read_only = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) recache = false
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) stats = true
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.680620 2228 ] Config: (default) umask = 
+[2021-03-11T10:02:07.680620 2228 ] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2021-03-11T10:02:07.681618 16828] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.681618 2228 ] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.681618 16828] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.681618 2228 ] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.681618 16828] Source file: __helpers.c
+[2021-03-11T10:02:07.681618 16828] Object file: __helpers.o
+[2021-03-11T10:02:07.682618 2228 ] Source file: module.__main__.c
+[2021-03-11T10:02:07.682618 2228 ] Object file: module.__main__.o
+[2021-03-11T10:02:07.682618 16828] Trying direct lookup
+[2021-03-11T10:02:07.682618 2228 ] Trying direct lookup
+[2021-03-11T10:02:07.683161 16828] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/b/3d8f5c383fb443a2dc7873ff7a588a-61875.manifest
+[2021-03-11T10:02:07.683618 2228 ] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/d/94402a64b3cc5909265460dc206e60-48827.manifest
+[2021-03-11T10:02:07.704619 4636 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) base_dir = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) compiler = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) compression = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) debug = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) disable = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) hard_link = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.704619 4636 ] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) max_files = 0
+[2021-03-11T10:02:07.704619 4636 ] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) path = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) read_only = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) recache = false
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) stats = true
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.704619 4636 ] Config: (default) umask = 
+[2021-03-11T10:02:07.704619 4636 ] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-03-11T10:02:07.704619 4636 ] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.705619 4636 ] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.707618 4636 ] Source file: static_src\CompiledGeneratorType.c
+[2021-03-11T10:02:07.707618 4636 ] Object file: static_src\CompiledGeneratorType.o
+[2021-03-11T10:02:07.707618 4636 ] Trying direct lookup
+[2021-03-11T10:02:07.709906 16184] Got object file hash from manifest
+[2021-03-11T10:02:07.710699 16184] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/3/97f8c8f302b008916c86ef0399800d-614761.o to __constants.o (uncompressed)
+[2021-03-11T10:02:07.711618 16184] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/3/97f8c8f302b008916c86ef0399800d-614761.o -> __constants.o
+[2021-03-11T10:02:07.712619 16184] Succeeded getting cached result
+[2021-03-11T10:02:07.712619 16184] Result: cache hit (direct)
+[2021-03-11T10:02:07.713622 16184] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-03-11T10:02:07.716147 4636 ] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/6146ac7a3332ec36555753ab2951cb-57400.manifest
+[2021-03-11T10:02:07.716147 16184] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-03-11T10:02:07.745853 17564] Got object file hash from manifest
+[2021-03-11T10:02:07.746853 17564] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/e8cde6b56e6c91c560b612d1429ed8-439833.o to __loader.o (uncompressed)
+[2021-03-11T10:02:07.747853 17564] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/e8cde6b56e6c91c560b612d1429ed8-439833.o -> __loader.o
+[2021-03-11T10:02:07.748851 17564] Succeeded getting cached result
+[2021-03-11T10:02:07.749853 17564] Result: cache hit (direct)
+[2021-03-11T10:02:07.749853 17564] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-03-11T10:02:07.752853 17564] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-03-11T10:02:07.755851 18204] Got object file hash from manifest
+[2021-03-11T10:02:07.757901 18204] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/1/a7f54c02f8c10036dc42c83c4ce3de-698490.o to static_src\CompiledFunctionType.o (uncompressed)
+[2021-03-11T10:02:07.758904 18204] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/1/a7f54c02f8c10036dc42c83c4ce3de-698490.o -> static_src\CompiledFunctionType.o
+[2021-03-11T10:02:07.759853 18204] Succeeded getting cached result
+[2021-03-11T10:02:07.759853 18204] Result: cache hit (direct)
+[2021-03-11T10:02:07.759853 18204] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-03-11T10:02:07.766167 18204] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-03-11T10:02:07.787852 16828] Got object file hash from manifest
+[2021-03-11T10:02:07.788909 16828] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/f1ebd0cf97dac9b2ecd057ef65253b-651503.o to __helpers.o (uncompressed)
+[2021-03-11T10:02:07.790854 16828] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/f1ebd0cf97dac9b2ecd057ef65253b-651503.o -> __helpers.o
+[2021-03-11T10:02:07.790854 16828] Succeeded getting cached result
+[2021-03-11T10:02:07.790854 16828] Result: cache hit (direct)
+[2021-03-11T10:02:07.791853 16828] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-03-11T10:02:07.799854 20896] Got object file hash from manifest
+[2021-03-11T10:02:07.800384 16828] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-03-11T10:02:07.800851 20896] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/0/c12bbe8e2fdacd4c249435dc683fd0-618396.o to static_src\CompiledCellType.o (uncompressed)
+[2021-03-11T10:02:07.801852 20896] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/0/c12bbe8e2fdacd4c249435dc683fd0-618396.o -> static_src\CompiledCellType.o
+[2021-03-11T10:02:07.801852 20896] Succeeded getting cached result
+[2021-03-11T10:02:07.802853 20896] Result: cache hit (direct)
+[2021-03-11T10:02:07.802853 20896] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-03-11T10:02:07.805854 2228 ] Got object file hash from manifest
+[2021-03-11T10:02:07.806854 2228 ] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/7/b3927b62a9dc7506e4eb7b70b12152-650331.o to module.__main__.o (uncompressed)
+[2021-03-11T10:02:07.806854 20896] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-03-11T10:02:07.807855 2228 ] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/7/b3927b62a9dc7506e4eb7b70b12152-650331.o -> module.__main__.o
+[2021-03-11T10:02:07.807855 2228 ] Succeeded getting cached result
+[2021-03-11T10:02:07.807855 2228 ] Result: cache hit (direct)
+[2021-03-11T10:02:07.808854 2228 ] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-03-11T10:02:07.817892 2228 ] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-03-11T10:02:07.823484 4636 ] Got object file hash from manifest
+[2021-03-11T10:02:07.824485 4636 ] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/6/57cae702cbca32967d6928e1e7e004-791730.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2021-03-11T10:02:07.825487 4636 ] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/6/57cae702cbca32967d6928e1e7e004-791730.o -> static_src\CompiledGeneratorType.o
+[2021-03-11T10:02:07.826022 4636 ] Succeeded getting cached result
+[2021-03-11T10:02:07.826022 4636 ] Result: cache hit (direct)
+[2021-03-11T10:02:07.827006 4636 ] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-03-11T10:02:07.829345 4636 ] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-03-11T10:02:07.846544 11364] Got object file hash from manifest
+[2021-03-11T10:02:07.847364 11364] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/b/5105f181151b848bff7b06c797d2bb-4101503.o to static_src\MainProgram.o (uncompressed)
+[2021-03-11T10:02:07.847364 11364] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/b/5105f181151b848bff7b06c797d2bb-4101503.o -> static_src\MainProgram.o
+[2021-03-11T10:02:07.848352 11364] Succeeded getting cached result
+[2021-03-11T10:02:07.848352 11364] Result: cache hit (direct)
+[2021-03-11T10:02:07.848352 11364] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-03-11T10:02:07.850483 11364] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-03-11T10:02:07.911719 14480] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.911719 14480] Config: (default) base_dir = 
+[2021-03-11T10:02:07.911719 14480] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.911719 14480] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.911719 14480] Config: (default) compiler = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.911719 14480] Config: (default) compression = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.911719 14480] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) debug = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.911719 14480] Config: (default) disable = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) hard_link = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.911719 14480] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.911719 14480] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.911719 14480] Config: (default) max_files = 0
+[2021-03-11T10:02:07.911719 14480] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.911719 14480] Config: (default) path = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) read_only = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) recache = false
+[2021-03-11T10:02:07.911719 14480] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.911719 14480] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) stats = true
+[2021-03-11T10:02:07.911719 14480] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.911719 14480] Config: (default) umask = 
+[2021-03-11T10:02:07.911719 14480] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2021-03-11T10:02:07.911719 14480] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.911719 14480] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.912718 14480] Source file: static_src\CompiledCodeHelpers.c
+[2021-03-11T10:02:07.912718 14480] Object file: static_src\CompiledCodeHelpers.o
+[2021-03-11T10:02:07.912718 14480] Trying direct lookup
+[2021-03-11T10:02:07.917719 14480] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/4/56c4135e71e15a72ce1a130557ad6e-57111.manifest
+[2021-03-11T10:02:07.947718 12400] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.947718 12400] Config: (default) base_dir = 
+[2021-03-11T10:02:07.947718 12400] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.947718 12400] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.947718 12400] Config: (default) compiler = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.947718 12400] Config: (default) compression = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.947718 12400] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) debug = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.947718 12400] Config: (default) disable = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) hard_link = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.947718 12400] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.947718 12400] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.947718 12400] Config: (default) max_files = 0
+[2021-03-11T10:02:07.947718 12400] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.947718 12400] Config: (default) path = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) read_only = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) recache = false
+[2021-03-11T10:02:07.947718 12400] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.947718 12400] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) stats = true
+[2021-03-11T10:02:07.947718 12400] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.947718 12400] Config: (default) umask = 
+[2021-03-11T10:02:07.948718 12400] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-03-11T10:02:07.948718 12400] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.948718 12400] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.948718 12400] Source file: static_src\InspectPatcher.c
+[2021-03-11T10:02:07.948718 12400] Object file: static_src\InspectPatcher.o
+[2021-03-11T10:02:07.949719 12400] Trying direct lookup
+[2021-03-11T10:02:07.949719 12400] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/03f9b1f6bf24fb04c936f922e9f814-13634.manifest
+[2021-03-11T10:02:07.963719 20408] === CCACHE 3.7.12 STARTED =========================================
+[2021-03-11T10:02:07.963719 20408] Config: (default) base_dir = 
+[2021-03-11T10:02:07.963719 20408] Config: (environment) cache_dir = C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-03-11T10:02:07.963719 20408] Config: (default) cache_dir_levels = 2
+[2021-03-11T10:02:07.963719 20408] Config: (default) compiler = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) compiler_check = mtime
+[2021-03-11T10:02:07.963719 20408] Config: (default) compression = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) compression_level = 6
+[2021-03-11T10:02:07.963719 20408] Config: (default) cpp_extension = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) debug = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) depend_mode = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) direct_mode = true
+[2021-03-11T10:02:07.963719 20408] Config: (default) disable = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) extra_files_to_hash = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) hard_link = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) hash_dir = true
+[2021-03-11T10:02:07.963719 20408] Config: (default) ignore_headers_in_manifest = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) keep_comments_cpp = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) limit_multiple = 0.8
+[2021-03-11T10:02:07.963719 20408] Config: (environment) log_file = C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build\ccache-15116.txt
+[2021-03-11T10:02:07.963719 20408] Config: (default) max_files = 0
+[2021-03-11T10:02:07.963719 20408] Config: (C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-03-11T10:02:07.963719 20408] Config: (default) path = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) pch_external_checksum = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) prefix_command = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) prefix_command_cpp = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) read_only = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) read_only_direct = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) recache = false
+[2021-03-11T10:02:07.963719 20408] Config: (default) run_second_cpp = true
+[2021-03-11T10:02:07.963719 20408] Config: (default) sloppiness = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) stats = true
+[2021-03-11T10:02:07.963719 20408] Config: (default) temporary_dir = 
+[2021-03-11T10:02:07.963719 20408] Config: (default) umask = 
+[2021-03-11T10:02:07.963719 20408] Command line: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\blzza\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\blzza\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\include -IC:\Users\blzza\venv\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-03-11T10:02:07.964720 20408] Hostname: LAPTOP-BNFR538A
+[2021-03-11T10:02:07.964720 20408] Working directory: C:\Users\blzza\OneDrive\Documents\Checkra1n.py-main\Checkra1n.py-main\pysrc\checkra1n.py.build
+[2021-03-11T10:02:07.964720 20408] Source file: static_src\MetaPathBasedLoader.c
+[2021-03-11T10:02:07.964720 20408] Object file: static_src\MetaPathBasedLoader.o
+[2021-03-11T10:02:07.965719 20408] Trying direct lookup
+[2021-03-11T10:02:07.965719 20408] Looking for object file hash in C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/1/ce2c833a220705d03c6f989f3257fe-52228.manifest
+[2021-03-11T10:02:08.001420 12400] Got object file hash from manifest
+[2021-03-11T10:02:08.002591 12400] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/e/12e8c31823bda36337631ee2ca5978-624081.o to static_src\InspectPatcher.o (uncompressed)
+[2021-03-11T10:02:08.002591 12400] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/e/12e8c31823bda36337631ee2ca5978-624081.o -> static_src\InspectPatcher.o
+[2021-03-11T10:02:08.003609 12400] Succeeded getting cached result
+[2021-03-11T10:02:08.003609 12400] Result: cache hit (direct)
+[2021-03-11T10:02:08.004748 12400] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-03-11T10:02:08.006590 12400] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-03-11T10:02:08.052588 14480] Got object file hash from manifest
+[2021-03-11T10:02:08.053636 14480] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/3f0890543fba1a8736864a95708340-5276277.o to static_src\CompiledCodeHelpers.o (uncompressed)
+[2021-03-11T10:02:08.054590 20408] Got object file hash from manifest
+[2021-03-11T10:02:08.055123 14480] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/3f0890543fba1a8736864a95708340-5276277.o -> static_src\CompiledCodeHelpers.o
+[2021-03-11T10:02:08.055590 14480] Succeeded getting cached result
+[2021-03-11T10:02:08.055590 14480] Result: cache hit (direct)
+[2021-03-11T10:02:08.055590 20408] Copying C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/3/76ec2cdaeea2bd3d0b1dc3086256f8-2973663.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2021-03-11T10:02:08.056228 14480] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-03-11T10:02:08.056590 20408] Created from cache: C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/3/76ec2cdaeea2bd3d0b1dc3086256f8-2973663.o -> static_src\MetaPathBasedLoader.o
+[2021-03-11T10:02:08.056590 20408] Succeeded getting cached result
+[2021-03-11T10:02:08.056590 20408] Result: cache hit (direct)
+[2021-03-11T10:02:08.057715 20408] Acquired lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-03-11T10:02:08.057715 14480] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-03-11T10:02:08.058590 20408] Releasing lock C:\Users\blzza\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
