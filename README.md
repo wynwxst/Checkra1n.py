@@ -30,7 +30,7 @@ For webra1n (css + html to come soon) cd to the folder and type `python index.py
 
 # Installation:
 ```
-git clone https://github.com/Sakurai07/Checkra1n.py/
+git clone https://github.com/apollyon9/Checkra1n.py/
 cd Checkra1n.py
 python main.py
 ```
@@ -92,7 +92,7 @@ _with this error you must read the #must do section_
  
  geohot for patch of exploit
  
- sakurai07 for patching it further with a user friendly ui
+ apollyon9 for patching it further with a user friendly ui
  
  # Disclaimer
  I am not responsible for your device errors
