@@ -47,6 +47,7 @@ python main.py
 - ~~[ ] Implement pyboot~~ Taken out
 - [x] Add mydearpygui
 - [ ] Make theming
+- [ ] Make electron flask UI
 
 # Compatability
 s5l8947x - Apple TV 3rd Gen
