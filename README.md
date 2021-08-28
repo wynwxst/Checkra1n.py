@@ -92,7 +92,7 @@ _with this error you must read the #must do section_
  
  geohot for patch of exploit
  
- apollyon9 for patching it further with a user friendly ui
+ k0nami for patching it further with a user friendly ui
  
  # Disclaimer
  I am not responsible for your device errors
