@@ -30,7 +30,7 @@ For webra1n (css + html to come soon) cd to the folder and type `python index.py
 
 # Installation:
 ```
-git clone https://github.com/apollyon9/Checkra1n.py/
+git clone https://github.com/ehnryu/Checkra1n.py/
 cd Checkra1n.py
 python main.py
 ```
