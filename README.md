@@ -3,8 +3,12 @@
 
 well it's checkm8 only
 
+For libusb errors, refer to this guide:
+https://www.smallcab.net/download/programme/xm-07/how-to-install-libusb-driver.pdf
+
 # Testers
 <a href= https://github.com/Sakurai07/Checkra1n.py/blob/main/testers.md>Testers</a>
+DM me on discord @ Shion#2717 to be a tester
 
 # RUN ALL OF THIS USING ADMIN COMMAND PROMPT
 
@@ -93,7 +97,7 @@ _with this error you must read the #must do section_
  
  geohot for patch of exploit
  
- k0nami for patching it further with a user friendly ui
+ Ehnryu for patching it further with a user friendly ui
  
  # Disclaimer
  I am not responsible for your device errors
